@@ -1,0 +1,13 @@
+# Carpeta node_modules para proyectos Node.js
+node_modules/
+
+# Archivo de dependencias generado por npm
+package-lock.json
+
+# Carpeta de archivos de caché generados por npm
+npm-debug.log
+
+# Carpeta de archivos generados por yarn
+yarn-error.log
+yarn.lock
+
